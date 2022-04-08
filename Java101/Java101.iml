@@ -10,6 +10,7 @@
       <sourceFolder url="file://$MODULE_DIR$/NotHesaplama" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Taksimetre" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/VucutKitleIndeksi" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HesapMakinesi" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
