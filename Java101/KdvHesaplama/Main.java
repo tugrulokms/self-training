@@ -5,7 +5,7 @@ public class Main {
         Scanner input = new Scanner(System.in);
 
         System.out.print("KDV'si hesaplanacak tutarı giriniz: ");
-            
+        
         double tutar = input.nextDouble();
         input.close();
 
